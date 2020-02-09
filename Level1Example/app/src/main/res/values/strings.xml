@@ -1,0 +1,14 @@
+<resources>
+    // strings for xml attributes
+    <string name="app_name">Example1</string>
+    <string name="titleText">What kind of animal is this?</string>
+    <string name="inputText">Name</string>
+    <string name="inputTextHint">What kind of animal?</string>
+    <string name="imgDiscription">Giraffe img</string>
+    <string name="btnText">Confirm</string>
+
+    // correct/incorrect toaster
+    <string name="correctAwnser">giraffe</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Incorrect, the correct answer is Giraffe!</string>
+</resources>
