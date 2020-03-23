@@ -1,6 +1,6 @@
 <resources>
     // strings for xml attributes
-    <string name="app_name">Example1</string>
+    <string name="app_name">Picture Quiz</string>
     <string name="titleText">What kind of animal is this?</string>
     <string name="inputText">Name</string>
     <string name="inputTextHint">What kind of animal?</string>
